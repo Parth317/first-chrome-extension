@@ -1,3 +1,7 @@
+//add the example manifest data from the developer chrome site. This declares a browser action, 
+//the activeTab permission which sees the URL of the current tab, 
+//and the storage permission which remembers the user's choice of background color for a page.
+
 {
   "manifest_version": 2,
 
